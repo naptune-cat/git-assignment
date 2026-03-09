@@ -2,3 +2,7 @@ There are various types of sweets-
 Cakes
 Icecreams
 Gulab Jamun
+//these are the new type of sweets I am adding in the list
+Kaju Katli
+Mysore Pak
+Rasmalai
